@@ -5,6 +5,8 @@ Two artificial neural networks (ANNs) built with TensorFlow/Keras on the [Bank C
 1. **Churn classification** predicts whether a bank customer is likely to leave (`Exited`).
 2. **Salary regression** predicts a customer's `EstimatedSalary`.
 
+**🚀 Live demo (churn prediction):** https://ann-churn-classifier-fbm4rkdtphwwchu47e57xf.streamlit.app/
+
 ## Project structure
 
 | File | Description |
